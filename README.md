@@ -6,7 +6,7 @@ Razem możemy więcej! Dołącz do naszego Slacka - DataWorkshop Club (9000+ os�
 ⭐ znajdziesz osoby na Slacku - początkujące i zaawansowane, programiści, inżynierowie, śwodomi liderzy i managerowie, pasjonaci 
 (każdy, kto chce działać w praktyce i ma pozytywne nastwienie do rozwoju jest mile widziany :)) 
 
-# W ramach Dwthon na Slacku: 
+# W ramach DWthon na Slacku: 
 ✔️ publikujemy bieżące informacje 
 ✔️ szybko rozwiązujemy problemy i zdejmujemy blokery 
 ✔️ wrzucasz odpowiedzi do dedykowanych kanałów i zgarniasz bonusy
