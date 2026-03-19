@@ -13,7 +13,7 @@ Razem możemy więcej! Dołącz do naszego Slacka - DataWorkshop Club (9000+ os�
 ✔️ zadajesz dowolne pytania, poznajesz inne osoby podobne do Ciebie i zupełnie inne od Cieie i to jest ekstra ;) 
 
 # Jeśli jeszcze nie ma Cię w naszym workspace, to dołącz poprzez ten link: 
-https://dataworkshopclub.slack.com/join/shared_invite/zt-3q9fy90pi-LKVeuVcBYtACtADl11K~Ag#/shared-invite/email/expanded-email-form
+https://dataworkshopclub.slack.com/join/shared_invite/zt-3sy7v35er-cjcmwI7jGX5ugBYHDio27Q#/shared-invite/email/expanded-email-form
 
 # 🔴 NIE wymagamy maila z domeny dataworkshop, wpisz swój i ustaw hasło. 
 # 🚀 Jak jesteś już w dataworkshopclub.slack.com - zaloguj się 🔑 :) 
